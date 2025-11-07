@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "description": "High-quality Bluetooth headphones with noise cancellation and long battery life.",
+    "price": 1999,
+    "category": "Electronics"
+  },
+  {
+    "name": "Smart Watch",
+    "description": "Track your fitness, heart rate, and sleep patterns with this modern smartwatch.",
+    "price": 3499,
+    "category": "Wearables"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "description": "Portable speaker with rich bass, splash resistance, and 10-hour playtime.",
+    "price": 2499,
+    "category": "Audio"
+  },
+  {
+    "name": "Laptop Stand",
+    "description": "Ergonomic aluminum stand for better posture and cooling efficiency.",
+    "price": 799,
+    "category": "Accessories"
+  },
+  {
+    "name": "USB-C Hub",
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0 ports, SD card reader, and PD charging.",
+    "price": 999,
+    "category": "Accessories"
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with blue switches and durable aluminum body.",
+    "price": 2999,
+    "category": "Electronics"
+  },
+  {
+    "name": "Running Shoes",
+    "description": "Comfortable and lightweight running shoes designed for everyday use.",
+    "price": 2599,
+    "category": "Footwear"
+  },
+  {
+    "name": "Backpack",
+    "description": "Stylish and durable backpack with laptop compartment and anti-theft design.",
+    "price": 1899,
+    "category": "Fashion"
+  },
+  {
+    "name": "Wireless Mouse",
+    "description": "Compact and ergonomic wireless mouse with adjustable DPI and silent clicks.",
+    "price": 699,
+    "category": "Accessories"
+  },
+  {
+    "name": "LED Desk Lamp",
+    "description": "Adjustable LED lamp with touch controls and multiple brightness levels.",
+    "price": 1299,
+    "category": "Home & Office"
+  }
+]
