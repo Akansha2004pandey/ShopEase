@@ -88,7 +88,7 @@ const CartItem = ({ item }: CartItemProps) => {
 
         <div className="text-right">
           <p className="text-xs text-muted-foreground mb-1">Subtotal</p>
-          <p className="text-xl font-bold">${subtotal.toFixed(2)}</p>
+          <p className="text-xl font-bold">₹{subtotal.toFixed(2)}</p>
         </div>
 
         <Button

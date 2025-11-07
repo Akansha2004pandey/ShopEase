@@ -86,7 +86,7 @@ const CheckoutForm = ({ onSuccess }: CheckoutFormProps) => {
           <div className="pt-4 border-t border-border">
             <div className="flex justify-between items-center mb-6">
               <span className="text-lg font-medium">Total</span>
-              <span className="text-3xl font-bold text-primary">${cart.total.toFixed(2)}</span>
+              <span className="text-3xl font-bold text-primary">₹{cart.total.toFixed(2)}</span>
             </div>
 
             <Button type="submit" size="lg" className="w-full" disabled={isSubmitting || cart.items.length === 0}>
