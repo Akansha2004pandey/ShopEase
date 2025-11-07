@@ -1,12 +1,16 @@
 # ShopEase
 
-ShopEase is a modern, responsive e-commerce platform built with **React** for the frontend and **Node.js/Express** for the backend. It allows users to browse products, manage a personal shopping cart, and complete seamless checkout with a visually appealing and user-friendly interface.  
+ShopEase is a modern, responsive e-commerce platform built with **React** for the frontend and **Node.js/Express** for the backend. It allows users to browse products, manage a personal shopping cart, and complete seamless checkout with a visually appealing and user-friendly interface. 
 
-<img width="1879" height="774" alt="image" src="https://github.com/user-attachments/assets/8d019d0b-a5ab-4c0c-a370-e6601cbc7f07" />
+<img width="972" height="573" alt="image" src="https://github.com/user-attachments/assets/3cec5e87-6cdf-49b5-9f00-5add84ec411a" />
 
-<img width="983" height="615" alt="image" src="https://github.com/user-attachments/assets/7d11b3cc-3983-46bb-9341-28ee83d6621f" />
+<img width="962" height="580" alt="image" src="https://github.com/user-attachments/assets/08dae2c2-eff1-42e9-9787-d8feaaa6b009" />
 
-<img width="970" height="464" alt="image" src="https://github.com/user-attachments/assets/0db84d34-ce78-44da-97a2-d9f7174bc484" />
+<img width="968" height="504" alt="image" src="https://github.com/user-attachments/assets/4f336899-2d49-4357-8439-058b06bb2325" />
+
+<img width="973" height="700" alt="image" src="https://github.com/user-attachments/assets/665bff1b-5a65-457d-be84-275724f5ae6c" />
+
+
 
 
 
