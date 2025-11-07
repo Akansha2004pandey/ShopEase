@@ -62,7 +62,7 @@ const CheckoutForm = ({ onSuccess }: CheckoutFormProps) => {
               <FormItem>
                 <FormLabel>Full Name</FormLabel>
                 <FormControl>
-                  <Input placeholder="John Doe" {...field} disabled={isSubmitting} />
+                  <Input placeholder="ABC " {...field} disabled={isSubmitting} />
                 </FormControl>
                 <FormMessage />
               </FormItem>
@@ -76,7 +76,7 @@ const CheckoutForm = ({ onSuccess }: CheckoutFormProps) => {
               <FormItem>
                 <FormLabel>Email</FormLabel>
                 <FormControl>
-                  <Input type="email" placeholder="john@example.com" {...field} disabled={isSubmitting} />
+                  <Input type="email" placeholder="abc@example.com" {...field} disabled={isSubmitting} />
                 </FormControl>
                 <FormMessage />
               </FormItem>
