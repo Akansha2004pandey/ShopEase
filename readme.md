@@ -52,4 +52,18 @@ Mock receipt with total and timestamp after checkout.
 git clone https://github.com/Akansha2004pandey/ShopEase.git
 cd shopease
 
+2. **Run Backend**
+Create a .env file inside the backend folder and add: 
+```bash
+cd backend
+npm run dev
+
+3. **Run Frontend**  
+```bash
+cd frontend
+npm run dev
+
+
+
+
 
