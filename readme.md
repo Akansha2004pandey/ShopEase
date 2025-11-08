@@ -45,23 +45,62 @@ Mock receipt with total and timestamp after checkout.
 | GET | `/apiv1//cart` | Get cart + total |
 | POST | `/api/v1/checkout` | Mock checkout receipt |
 
-## Installation
+## 🛠️ Installation Guide
 
-1. **Clone the repository:**  
+Follow these steps to set up and run the project locally.
+
+---
+
+### 1. **Clone the Repository and Set Up Backend & Frontend**
+
 ```bash
+# 1️⃣ Clone the repository
 git clone https://github.com/Akansha2004pandey/ShopEase.git
-cd shopease
 
-2. **Run Backend**
-Create a .env file inside the backend folder and add: 
-```bash
+# 2️⃣ Navigate into the project directory
+cd ShopEase
+
+# You will find two folders inside:
+# ├── backend
+# └── frontend
+
+# ==============================
+# 🖥️ Backend Setup
+# ==============================
+
+# Go into backend folder
 cd backend
+
+# Install dependencies
+npm install
+
+# Create an .env file inside backend folder and add:
+# PORT=5000
+# MONGO_URI=your_mongodb_connection_string
+
+# Run the backend server
 npm run dev
 
-3. **Run Frontend**  
-```bash
-cd frontend
+# The backend will now run at:
+# 👉 http://localhost:5000
+
+# ==============================
+# 💻 Frontend Setup
+# ==============================
+
+# Open a new terminal window
+# Navigate into frontend folder
+cd ../frontend
+
+# Install dependencies
+npm install
+
+# Run the frontend
 npm run dev
+
+# The frontend will now run at:
+# 👉 http://localhost:5173
+
 
 
 
